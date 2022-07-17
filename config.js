@@ -4,12 +4,12 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 882-2724-8988'],
-  ['+62 882-0053-10908'],
-  ['+62 822 2724 8988'],
-  ['6288227248988', 'Asrori Amin', true],
-  ['62882005310908', 'Amin Bot', true],
-  ['+62 895 6203 64877', 'Nisa', true],
+  ['+62 821-3643-2456'],
+  ['+62 821-3643-2456'],
+  ['+62 821 3643 2456'],
+  ['6282136432456', 'Putraa', true],
+  ['6282136432456', 'Putraa', true],
+  ['+62 821 3643 2456', 'Putraa', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -37,11 +37,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 Asrori Amin 」' //Main Watermark
+global.wm = '                「 Putraa 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = 'Asrori Amin'
+global.wm3 = 'Putraa'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -75,10 +75,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62882005310908'
-global.nomorown = '6288227248988'
-global.namebot = 'Amin Bot'
-global.nameown = 'Asrori Amin'
+global.nomorbot = '6282136432456'
+global.nomorown = '6282136432456'
+global.namebot = 'Putraa'
+global.nameown = 'Putraa'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -107,9 +107,9 @@ global.lolm = 'Ⓛ'
 global.htjava = '⫹⫺' //hiasan Doang :v
 global.hsquere = '⛶', '❏', '⫹⫺'
 
-// Sticker WM
-global.packname = 'Asrori Amin'
-global.author = 'Asrori Amin'
+// Watermark Sticker
+global.packname = 'Putraa'
+global.author = 'Putraa'
 
 global.multiplier = 69 // The higher, The harder levelup
 
