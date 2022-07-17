@@ -60,7 +60,7 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
 
-global.sgc = 'https://chat.whatsapp.com/JK8R3UJVF1KKySPeisEWdS'
+global.sgc = 'https://chat.whatsapp.com/ID36jYZjlYz7E4zus4SBed'
 global.sig = 'https://instagram.com/hii.putragans/'
 
 //Ini cuma simpenan owner kanna kok :v
